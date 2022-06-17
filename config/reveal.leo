@@ -20,11 +20,7 @@
 <v t="leo.20220314203825.6"><vh>slides div</vh>
 <v t="leo.20220314203825.7"><vh>slide 1</vh></v>
 <v t="leo.20220314203825.8"><vh>slide 2</vh></v>
-<v t="leo.20220314203825.9"><vh>slide3</vh>
-<v t="leo.20220314203825.10"><vh>slide 3-1</vh></v>
-<v t="leo.20220314203825.11"><vh>slide 3-2</vh></v>
-<v t="leo.20220314203825.12"><vh>slide 3-3</vh></v>
-</v>
+<v t="leo.20220314203825.9"><vh>slide3</vh></v>
 <v t="leo.20220314203825.13"><vh>slide 4</vh></v>
 <v t="leo.20220314203825.14"><vh>slide 5 </vh></v>
 <v t="leo.20220314203825.15"><vh>slide 6</vh></v>
@@ -34,17 +30,9 @@
 <v t="leo.20220314203825.19"><vh>slide 10</vh></v>
 <v t="leo.20220314203825.20"><vh>slide 11</vh></v>
 <v t="leo.20220314203825.21"><vh>slide 12</vh></v>
-<v t="leo.20220314203825.22"><vh>slide 13</vh>
-<v t="leo.20220314203825.23"><vh>slide 13-1</vh></v>
-<v t="leo.20220314203825.24"><vh>slide 13-2</vh></v>
-</v>
+<v t="leo.20220314203825.22"><vh>slide 13</vh></v>
 <v t="leo.20220314203825.25"><vh>slide 14</vh></v>
-<v t="leo.20220314203825.26"><vh>slide 15</vh></v>
 <v t="leo.20220314203825.27"><vh>slide 16</vh>
-<v t="leo.20220314203825.28"><vh>slide 16-1</vh></v>
-<v t="leo.20220314203825.29"><vh>slide 16-2</vh></v>
-<v t="leo.20220314203825.30"><vh>slide 16-3</vh></v>
-<v t="leo.20220314203825.31"><vh>slide 16-4</vh></v>
 <v t="leo.20220314203825.32"><vh>slide 16-5</vh></v>
 </v>
 </v>
@@ -137,79 +125,56 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220314203825.1">@language xml
 @tabwidth -4
 @others</t>
-<t tx="leo.20220314203825.10">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.11">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.12">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20220314203825.13">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W3&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        各組使用NX1980分配影片並介紹軟體的使用方式 &lt;a href="https://40923247.github.io/cd2022/content/W3.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.14">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W6&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        使用leo建立blog網頁 &lt;a href="https://40923247.github.io/cd2022/blog/index.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.15">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W7&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        根據W7任務以隨身程式系統編譯程式碼 &lt;a href="https://40923247.github.io/cd2022/content/w7.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.16">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W8&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        使用分配到的Onshape軟體畫出UARM機械手臂的相關零件與組裝且轉成stl檔放入coppeliasim &lt;a href="https://40923247.github.io/cd2022/content/w8.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.17">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W10&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        根據課程導引網站W10任務使用WINK說明流程1. &lt;a href="https://40923247.github.io/cd2022/content/w10_block_ui.html" target="_blank"&gt;w10_block_ui&lt;/a&gt; 2.&lt;a href="https://40923247.github.io/cd2022/content/w10_nx_integ.html" target="_blank"&gt;w10_nx_integ&lt;/a&gt; 3.&lt;a href="https://40923247.github.io/cd2022/content/w10_ssh.html" target="_blank"&gt;w10_ssh&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.18">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W11&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        設定SSH與解決網站衝突 &lt;a href="https://40923247.github.io/cd2022/content/w11.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.19">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W12&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        依任務W12指示計算出UARM機械手臂的總數及名稱並列出BOM表&lt;a href="https://40923247.github.io/cd2022/content/w12.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -219,93 +184,44 @@ vertical: body pane on the botton</t>
 @others
 &lt;/html&gt;</t>
 <t tx="leo.20220314203825.20">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W13&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        依據任務W13使用程式查驗各學員的網頁進度 &lt;a href="https://40923247.github.io/cd2022/content/w13.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.21">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W14&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        使用NX12繪製MTB ROBOT零件後轉入Coppeliasim4.3版本後模擬場景 &lt;a href="https://40923247.github.io/cd2022/content/w14.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.22">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W15&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        使用NX12組合件放入Coppeliasim後以鍵盤模擬作動 &lt;a href="https://40923247.github.io/cd2022/content/w15.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20220314203825.23">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20220314203825.24">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20220314203825.25">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W16&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        跟據任務W17計算出UARM的座標及方程式並以解釋說明&lt;a href="https://40923247.github.io/cd2022/content/w16.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20220314203825.26">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.27">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;hi&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        簡報結束 &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20220314203825.28">&lt;section data-background="#dddddd"&gt;
-    &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-    &lt;/p&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.29">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-    &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.3">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
@@ -327,18 +243,6 @@ vertical: body pane on the botton</t>
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
 &lt;/head&gt;</t>
-<t tx="leo.20220314203825.30">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-    &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.31">&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-    &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-        &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20220314203825.32">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
     &lt;h2&gt;... and GIFs!&lt;/h2&gt;
 &lt;/section&gt;</t>
@@ -385,17 +289,17 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20220314203825.8">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W1&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        創建個人倉儲 &lt;a href="https://github.com/40923247/cd2022" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.9">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W2&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        將各學員以組分成七組並附上各學員與各組的倉儲網站 &lt;a href="https://40923247.github.io/cd2022/content/W2.html" target="_blank"&gt;連結&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
